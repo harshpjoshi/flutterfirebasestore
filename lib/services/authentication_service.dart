@@ -49,6 +49,10 @@ class AuthenticationService {
     }
   }
 
+  void feature1(){
+    // comment
+  }
+
   logout(BuildContext context) {
     FirebaseAuth.instance
         .signOut()
