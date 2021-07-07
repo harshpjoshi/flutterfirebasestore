@@ -15,6 +15,9 @@ Future<void> main() async {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+
+    //comment added
+
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
