@@ -53,18 +53,6 @@ class AuthenticationService {
     // comment
   }
 
-  void feature2(){
-    //comment
-  }
-
-  void feature1(){
-    // comment
-  }
-
-  void feature2(){
-    //comment
-  }
-
   logout(BuildContext context) {
     FirebaseAuth.instance
         .signOut()
