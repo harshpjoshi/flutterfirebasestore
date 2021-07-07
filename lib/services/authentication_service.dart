@@ -53,6 +53,10 @@ class AuthenticationService {
     // comment
   }
 
+  void feature1(){
+    // comment
+  }
+
   void feature2(){
     //comment
   }
